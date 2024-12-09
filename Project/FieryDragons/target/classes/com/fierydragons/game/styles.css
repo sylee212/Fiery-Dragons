@@ -1,0 +1,125 @@
+/* styles.css */
+
+/* Style for the label */
+.label {
+    -fx-font-size: 16px;
+    -fx-text-fill: #333333;
+}
+
+/* Style for labels */
+.custom-label {
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #333;
+    -fx-padding: 10;
+    -fx-background-color: #f0f0f0;
+    -fx-border-color: #999;
+    -fx-border-width: 1px;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+}
+
+.custom-label1 {
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #f0f0f0;
+    -fx-padding: 10;
+    -fx-border-color: #999;
+    -fx-border-width: 1px;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+}
+
+/* Style for the text field */
+.text-field {
+    -fx-padding: 5px;
+    -fx-font-size: 14px;
+    -fx-border-color: #cccccc;
+    -fx-border-radius: 5px;
+    -fx-border-width: 1px;
+    -fx-background-color: #ffffff;
+}
+
+/* Style for the button */
+.button {
+    -fx-font-size: 14px;
+    -fx-padding: 10px 20px;
+    -fx-background-color: #007BFF;
+    -fx-text-fill: white;
+    -fx-background-radius: 5px;
+    -fx-border-radius: 5px;
+}
+
+/* Hover effect for the button */
+.button:hover {
+    -fx-background-color: #0056b3;
+}
+
+/* Style for ComboBox */
+.combo-box {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #cccccc;
+    -fx-border-radius: 5px;
+    -fx-border-width: 1px;
+}
+
+/* Style for ComboBox base (text field) */
+.combo-box-base {
+    -fx-font-size: 14px;
+    -fx-padding: 5px;
+    -fx-background-color: #ffffff;
+    -fx-border-radius: 5px;
+    -fx-border-color: #cccccc;
+}
+
+/* Style for ComboBox popup (dropdown list) */
+.combo-box-popup {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #cccccc;
+    -fx-border-width: 1px;
+    -fx-background-radius: 5px;
+    -fx-border-radius: 5px;
+}
+
+/* Style for items in the ComboBox dropdown list */
+.list-cell {
+    -fx-padding: 5px;
+    -fx-font-size: 14px;
+    -fx-background-color: #ffffff;
+    -fx-text-fill: #333333;
+}
+
+/* Hover effect for items in the ComboBox dropdown list */
+.list-cell:hover {
+    -fx-background-color: #f0f0f0;
+}
+
+.grid-pane {
+    -fx-background-color: #e4ede6; /* Example background color */
+    -fx-padding: 5px; /* Example padding */
+}
+
+.volcano-tile-even {
+    -fx-border-color: #A07855FF;
+    -fx-border-width: 5;
+    -fx-border-radius:5;
+}
+
+.volcano-tile-odd {
+    -fx-border-color: #D4B996FF;
+    -fx-border-width: 5;
+    -fx-border-radius:5;
+}
+
+.volcano-tile-player {
+    -fx-border-color: #696B6E;
+    -fx-border-width: 3;
+    -fx-border-radius:3;
+}
+
+.dragon-card-border {
+    -fx-border-color: #e6819f;
+    -fx-border-width: 3;
+}
+
+

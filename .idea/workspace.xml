@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="game:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="39f92b93-ec49-48b4-80a6-f23940881d29" name="Changes" comment="13/5/2024 6:30 pm added background">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/game_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_5_2024_2_33_pm__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_5_2024_2_33_pm__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_6_2024_2_46_pm__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_6_2024_2_46_pm__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/FieryDragons/target/classes/com/fierydragons/game/animal/Wild.class" beforeDir="false" afterPath="$PROJECT_DIR$/Project/FieryDragons/target/classes/com/fierydragons/game/animal/Wild.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/FieryDragons/target/classes/com/fierydragons/game/display/DisplayBoard.class" beforeDir="false" afterPath="$PROJECT_DIR$/Project/FieryDragons/target/classes/com/fierydragons/game/display/DisplayBoard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/FieryDragons/target/classes/com/fierydragons/game/display/DisplayDragonCards.class" beforeDir="false" afterPath="$PROJECT_DIR$/Project/FieryDragons/target/classes/com/fierydragons/game/display/DisplayDragonCards.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/FieryDragons/target/classes/com/fierydragons/game/display/DisplayMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/Project/FieryDragons/target/classes/com/fierydragons/game/display/DisplayMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/FieryDragons/target/classes/com/fierydragons/game/dragoncard/BackwardDragonCard.class" beforeDir="false" afterPath="$PROJECT_DIR$/Project/FieryDragons/target/classes/com/fierydragons/game/dragoncard/BackwardDragonCard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/FieryDragons/target/classes/com/fierydragons/game/dragoncard/DragonCard.class" beforeDir="false" afterPath="$PROJECT_DIR$/Project/FieryDragons/target/classes/com/fierydragons/game/dragoncard/DragonCard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/FieryDragons/target/classes/com/fierydragons/game/dragoncard/DragonCardManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/Project/FieryDragons/target/classes/com/fierydragons/game/dragoncard/DragonCardManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/FieryDragons/target/classes/com/fierydragons/game/dragoncard/ForwardDragonCard.class" beforeDir="false" afterPath="$PROJECT_DIR$/Project/FieryDragons/target/classes/com/fierydragons/game/dragoncard/ForwardDragonCard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/FieryDragons/target/classes/com/fierydragons/game/dragoncard/SwapDragonCard.class" beforeDir="false" afterPath="$PROJECT_DIR$/Project/FieryDragons/target/classes/com/fierydragons/game/dragoncard/SwapDragonCard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/FieryDragons/target/classes/com/fierydragons/game/dragoncard/WildDragonCard.class" beforeDir="false" afterPath="$PROJECT_DIR$/Project/FieryDragons/target/classes/com/fierydragons/game/dragoncard/WildDragonCard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/FieryDragons/target/classes/com/fierydragons/game/player/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/Project/FieryDragons/target/classes/com/fierydragons/game/player/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/FieryDragons/target/classes/com/fierydragons/game/state/PeekState.class" beforeDir="false" afterPath="$PROJECT_DIR$/Project/FieryDragons/target/classes/com/fierydragons/game/state/PeekState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/FieryDragons/target/classes/com/fierydragons/game/state/PlayState.class" beforeDir="false" afterPath="$PROJECT_DIR$/Project/FieryDragons/target/classes/com/fierydragons/game/state/PlayState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/FieryDragons/target/classes/com/fierydragons/game/state/State.class" beforeDir="false" afterPath="$PROJECT_DIR$/Project/FieryDragons/target/classes/com/fierydragons/game/state/State.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/FieryDragons/target/classes/com/fierydragons/game/state/WaitNextTurnState.class" beforeDir="false" afterPath="$PROJECT_DIR$/Project/FieryDragons/target/classes/com/fierydragons/game/state/WaitNextTurnState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/game_jar/game.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/game_jar/game.jar" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2fAzLipcAVQ0ONwk8lzRBPuyok0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.HelloApplication.executor": "Run",
+    "Application.Main.executor": "Run",
+    "JAR Application.fierydragons.jar.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Monash/FIT_3077_SE/FIT_3077_SE/arvind/MA_Wednesday04pm_Team888-arvind-siva/MA_Wednesday04pm_Team888-arvind-siva",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Project/FieryDragons/src/main/java/com/fierydragons/game" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JAR Application.fierydragons.jar">
+    <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fierydragons.game.HelloApplication" />
+      <module name="game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fierydragons.game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fierydragons.game.Main" />
+      <module name="game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fierydragons.game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fierydragons.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/Project/FieryDragons/out/artifacts/fierydragons_jar/fierydragons.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.fierydragons.jar" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.HelloApplication" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.HelloApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-22-openjdk-22-4caba194b151-f504ca98" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39f92b93-ec49-48b4-80a6-f23940881d29" name="Changes" comment="" />
+      <created>1713258615673</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713258615673</updated>
+      <workItem from="1715359881217" duration="243000" />
+      <workItem from="1715407768920" duration="683000" />
+      <workItem from="1715580937929" duration="4157000" />
+      <workItem from="1715594847857" duration="2489000" />
+      <workItem from="1715608498999" duration="691000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added game board and required other classes for the game">
+      <option name="closed" value="true" />
+      <created>1715247095303</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715247095303</updated>
+    </task>
+    <task id="LOCAL-00002" summary="9/5/2024 11:02pm added maven project by clicking help find actions, add maven project, choose the pom file">
+      <option name="closed" value="true" />
+      <created>1715266969141</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715266969142</updated>
+    </task>
+    <task id="LOCAL-00003" summary="9/5/2024 11:05pm added animals">
+      <option name="closed" value="true" />
+      <created>1715267117955</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715267117955</updated>
+    </task>
+    <task id="LOCAL-00004" summary="9/5/2024 11:06pm added player and playermanager">
+      <option name="closed" value="true" />
+      <created>1715267217233</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715267217233</updated>
+    </task>
+    <task id="LOCAL-00005" summary="9/5/2024 11:14pm added fixed animalabstreact">
+      <option name="closed" value="true" />
+      <created>1715267650142</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1715267650142</updated>
+    </task>
+    <task id="LOCAL-00006" summary="9/5/2024 11:14pm added fixed animalabstreact">
+      <option name="closed" value="true" />
+      <created>1715267660337</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1715267660337</updated>
+    </task>
+    <task id="LOCAL-00007" summary="13/5/2024 2:59 pm fixed changes to dragon card to reduce code duplication">
+      <option name="closed" value="true" />
+      <created>1715583582570</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1715583582570</updated>
+    </task>
+    <task id="LOCAL-00008" summary="13/5/2024 6:30 pm added background">
+      <option name="closed" value="true" />
+      <created>1715596229998</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1715596229998</updated>
+    </task>
+    <task id="LOCAL-00009" summary="13/5/2024 6:30 pm added background">
+      <option name="closed" value="true" />
+      <created>1715596253733</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1715596253733</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added state class for the game" />
+    <MESSAGE value="Added game board and required other classes for the game" />
+    <MESSAGE value="9/5/2024 10:58pm test commit" />
+    <MESSAGE value="9/5/2024 11:02pm added maven project by clicking help find actions, add maven project, choose the pom file" />
+    <MESSAGE value="9/5/2024 11:05pm added animals" />
+    <MESSAGE value="9/5/2024 11:06pm added player and playermanager" />
+    <MESSAGE value="9/5/2024 11:14pm added fixed animalabstreact" />
+    <MESSAGE value="13/5/2024 2:59 pm fixed changes to dragon card to reduce code duplication" />
+    <MESSAGE value="13/5/2024 6:30 pm added background" />
+    <option name="LAST_COMMIT_MESSAGE" value="13/5/2024 6:30 pm added background" />
+  </component>
+</project>

@@ -1,0 +1,179 @@
+<changelist name="Uncommitted_changes_before_Update_at_19_5_2024_2_33_pm_[Changes]" date="1716100418822" recycled="false" toDelete="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_5_2024_2_33_pm_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 19/5/2024 2:33 pm [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/display/DisplayBoard.class" />
+    <option name="AFTER_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/display/DisplayBoard.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_5_2024_2_33_pm_[Changes]/DisplayBoard.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/state/WaitNextTurnState.class" />
+    <option name="AFTER_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/state/WaitNextTurnState.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_5_2024_2_33_pm_[Changes]/WaitNextTurnState.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/GameComponentsGenerator.class" />
+    <option name="AFTER_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/GameComponentsGenerator.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_5_2024_2_33_pm_[Changes]/GameComponentsGenerator.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/board/Cave.class" />
+    <option name="AFTER_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/board/Cave.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_5_2024_2_33_pm_[Changes]/Cave.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/animal/PirateDragon.class" />
+    <option name="AFTER_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/animal/PirateDragon.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_5_2024_2_33_pm_[Changes]/PirateDragon.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/player/Player.class" />
+    <option name="AFTER_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/player/Player.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_5_2024_2_33_pm_[Changes]/Player.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/board/Plot.class" />
+    <option name="AFTER_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/board/Plot.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_5_2024_2_33_pm_[Changes]/Plot.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/App.class" />
+    <option name="AFTER_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/App.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_5_2024_2_33_pm_[Changes]/App.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/board/VolcanoTile.class" />
+    <option name="AFTER_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/board/VolcanoTile.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_5_2024_2_33_pm_[Changes]/VolcanoTile.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/player/PlayerManager.class" />
+    <option name="AFTER_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/player/PlayerManager.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_5_2024_2_33_pm_[Changes]/PlayerManager.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/animal/Salamander.class" />
+    <option name="AFTER_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/animal/Salamander.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_5_2024_2_33_pm_[Changes]/Salamander.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/dragoncard/BackwardDragonCard.class" />
+    <option name="AFTER_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/dragoncard/BackwardDragonCard.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_5_2024_2_33_pm_[Changes]/BackwardDragonCard.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/animal/AnimalFactory.class" />
+    <option name="AFTER_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/animal/AnimalFactory.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_5_2024_2_33_pm_[Changes]/AnimalFactory.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/display/DisplayMain.class" />
+    <option name="AFTER_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/display/DisplayMain.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_5_2024_2_33_pm_[Changes]/DisplayMain.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/Main.class" />
+    <option name="AFTER_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/Main.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_5_2024_2_33_pm_[Changes]/Main.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/animal/Bat.class" />
+    <option name="AFTER_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/animal/Bat.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_5_2024_2_33_pm_[Changes]/Bat.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/state/State.class" />
+    <option name="AFTER_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/state/State.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_5_2024_2_33_pm_[Changes]/State.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/animal/BabyDragon.class" />
+    <option name="AFTER_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/animal/BabyDragon.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_5_2024_2_33_pm_[Changes]/BabyDragon.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/board/Board.class" />
+    <option name="AFTER_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/board/Board.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_5_2024_2_33_pm_[Changes]/Board.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/state/StartPlayState.class" />
+    <option name="AFTER_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/state/StartPlayState.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_5_2024_2_33_pm_[Changes]/StartPlayState.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/display/DisplayDragonCards.class" />
+    <option name="AFTER_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/display/DisplayDragonCards.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_5_2024_2_33_pm_[Changes]/DisplayDragonCards.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/Location.class" />
+    <option name="AFTER_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/Location.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_5_2024_2_33_pm_[Changes]/Location.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/display/ColorOption.class" />
+    <option name="AFTER_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/display/ColorOption.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_5_2024_2_33_pm_[Changes]/ColorOption.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/dragoncard/DragonCardManager.class" />
+    <option name="AFTER_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/dragoncard/DragonCardManager.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_5_2024_2_33_pm_[Changes]/DragonCardManager.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/state/SetTurnState.class" />
+    <option name="AFTER_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/state/SetTurnState.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_5_2024_2_33_pm_[Changes]/SetTurnState.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/display/DisplayDetails.class" />
+    <option name="AFTER_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/display/DisplayDetails.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_5_2024_2_33_pm_[Changes]/DisplayDetails.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/GameEngine.class" />
+    <option name="AFTER_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/GameEngine.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_5_2024_2_33_pm_[Changes]/GameEngine.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/dragoncard/ForwardDragonCard.class" />
+    <option name="AFTER_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/dragoncard/ForwardDragonCard.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_5_2024_2_33_pm_[Changes]/ForwardDragonCard.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/animal/AnimalType.class" />
+    <option name="AFTER_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/animal/AnimalType.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_5_2024_2_33_pm_[Changes]/AnimalType.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/state/PlayState.class" />
+    <option name="AFTER_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/state/PlayState.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_5_2024_2_33_pm_[Changes]/PlayState.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/animal/Animal.class" />
+    <option name="AFTER_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/animal/Animal.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_5_2024_2_33_pm_[Changes]/Animal.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/animal/Spider.class" />
+    <option name="AFTER_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/animal/Spider.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_5_2024_2_33_pm_[Changes]/Spider.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/dragoncard/DragonCard.class" />
+    <option name="AFTER_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/dragoncard/DragonCard.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_5_2024_2_33_pm_[Changes]/DragonCard.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/state/EndState.class" />
+    <option name="AFTER_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/state/EndState.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_5_2024_2_33_pm_[Changes]/EndState.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/board/VolcanoCard.class" />
+    <option name="AFTER_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/board/VolcanoCard.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_5_2024_2_33_pm_[Changes]/VolcanoCard.class" />
+  </binary>
+</changelist>

@@ -1,0 +1,19 @@
+<changelist name="Uncommitted_changes_before_Update_at_5_6_2024_2_46_pm_[Changes]" date="1717569991626" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_6_2024_2_46_pm_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 5/6/2024 2:46 pm [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/animal/AnimalType.class" />
+    <option name="AFTER_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/animal/AnimalType.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_6_2024_2_46_pm_[Changes]/AnimalType.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/player/Player.class" />
+    <option name="AFTER_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/player/Player.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_6_2024_2_46_pm_[Changes]/Player.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/board/Board.class" />
+    <option name="AFTER_PATH" value="Project/FieryDragons/target/classes/com/fierydragons/game/board/Board.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_6_2024_2_46_pm_[Changes]/Board.class" />
+  </binary>
+</changelist>

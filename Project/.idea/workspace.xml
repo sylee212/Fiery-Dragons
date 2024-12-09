@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8a73c9aa-bdb3-4ef0-a7ee-a80b992a36d4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/fierydragons/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fierydragons/src/main/java/com/fierydragons/fierydragons/ActionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fierydragons/src/main/java/com/fierydragons/fierydragons/ChitCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fierydragons/src/main/java/com/fierydragons/fierydragons/GameBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fierydragons/src/main/java/com/fierydragons/fierydragons/LandPiece.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fierydragons/src/main/resources/assets/chitcard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fierydragons/src/main/resources/assets/fierydragons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fierydragons/src/main/resources/assets/landpiece.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fierydragons/src/main/resources/assets/landpiece2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fierydragons/src/main/resources/assets/startbutton.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fierydragons/src/main/resources/com/fierydragons/fierydragons/board-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fierydragons/src/main/resources/com/fierydragons/fierydragons/main-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/MA_Wednesday04pm_Team888.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fierydragons/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fierydragons/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fierydragons/src/main/java/com/fierydragons/fierydragons/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/fierydragons/src/main/java/com/fierydragons/fierydragons/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fierydragons/src/main/java/com/fierydragons/fierydragons/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fierydragons/src/main/resources/com/fierydragons/fierydragons/hello-view.fxml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2fEuuQ5ph3XUqN4xY3b3l4qybJ1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "tharani-feature2",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/tharaniprathaban/Monash/FIT3077/S2/MA_Wednesday04pm_Team888/Project",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a73c9aa-bdb3-4ef0-a7ee-a80b992a36d4" name="Changes" comment="" />
+      <created>1713378780666</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713378780666</updated>
+    </task>
+    <servers />
+  </component>
+</project>
